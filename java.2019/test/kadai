@@ -1,0 +1,11 @@
+インスタンスがちゃんと生成できる
+receivecard
+play
+NobleRuleTest
+    1 インスタンスがちゃんと生成できる
+    2 findCardidate
+NobleTableTest
+    1 インスタンスがちゃんと生成できる
+    2 putCard
+    3 getCard
+    4 toString
